@@ -1,1 +1,1 @@
-Deployed Here :- 
+Students can view their respective details.
